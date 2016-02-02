@@ -66,8 +66,6 @@ client.query('temperature', {
 
 ## Thingful.Thing
 
-A 
-
 ## Examples
 
 #### A simple query
